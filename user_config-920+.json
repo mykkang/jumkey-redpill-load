@@ -1,0 +1,18 @@
+{
+  "extra_cmdline": {
+    "pid": "0x5571",
+    "vid": "0x0781",
+    "sn": "20C0SBRMJXK4N",
+    "mac1": "0011329EAE5E",
+    "SataPortMap": "25",
+    "DiskIdxMap": "0002"
+  },
+  "synoinfo": {
+    "internalportcfg": "0xffff",
+    "maxdisks": "16",
+    "support_bde_internal_10g": "no",
+    "support_disk_compatibility": "no",
+    "support_memory_compatibility": "no"
+  },
+  "ramdisk_copy": {}
+}
